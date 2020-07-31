@@ -1,1 +1,3 @@
-Mock api for data for applications building on onebrain innovations
+# MockAPI - One Brain Innovations
+
+MockAPI is json file store that provides mock data for building applications.
