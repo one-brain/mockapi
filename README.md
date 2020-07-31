@@ -1,2 +1,1 @@
-# https://one-brain.github.io/mockapi/
-Mock api for smart diary app
+Mock api for data for applications building on onebrain innovations
