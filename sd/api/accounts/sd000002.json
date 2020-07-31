@@ -1,0 +1,19 @@
+{
+    "accountId":"sd000002",
+    "subscriptions":[
+        {
+            "subscriptionId": "sub000003",
+            "domain": "sd.school1.com",
+            "createdDate":"2020-04-01 12:00:00 AM",
+            "expiryDate":"2021-03-31 11:59:59 PM",
+            "admissionNumber": "admn000002"
+        },
+        {
+            "subscriptionId": "sub000004",
+            "domain": "sd.school2.com",
+            "createdDate":"2020-04-01 12:00:00 AM",
+            "expiryDate":"2021-03-31 11:59:59 PM",
+            "admissionNumber": "admn000002"
+        }
+    ]
+}
